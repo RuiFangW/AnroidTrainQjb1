@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.lenovo2.flappybird.MainActivity">
+
+    <com.example.lenovo2.flappybird.Camera.CameraaSurface
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+    <com.example.lenovo2.flappybird.game.GameSurface
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+
+</RelativeLayout>
